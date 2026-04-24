@@ -1,4 +1,5 @@
 public class Sportello {
+    
     private final int NUMCASSIERI;
     private Cassiere[] cassieri;
     private int cassieriOccupati;
